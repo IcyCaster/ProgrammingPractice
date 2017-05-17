@@ -1,0 +1,9 @@
+{
+  "name": "reverse-astring",
+  "version": "0.0.0",
+  "description": "ReverseAString",
+  "main": "app.js",
+  "author": {
+    "name": "Chester"
+  }
+}
